@@ -14,4 +14,4 @@ The landing page showcases the charm of coffee through a simple and user-friendl
 
 ## Preview
 
-![Preview Image](preview/preview.PNG)
+![Preview Image](/upload.PNG)
